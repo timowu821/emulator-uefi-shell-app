@@ -5,7 +5,7 @@
 
 > A comprehensive Claude Code skill for developing UEFI Shell applications with EmulatorPkg.
 
-English | [简体中文](README.md)
+English | [简体中文](readme.md)
 
 ## Overview
 
